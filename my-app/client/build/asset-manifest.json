@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b3e8c02.chunk.css",
+    "main.js": "/static/js/main.2bde1034.chunk.js",
+    "main.js.map": "/static/js/main.2bde1034.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/css/2.ff6f7e5b.chunk.css": "/static/css/2.ff6f7e5b.chunk.css",
+    "static/js/2.1d5588c4.chunk.js": "/static/js/2.1d5588c4.chunk.js",
+    "static/js/2.1d5588c4.chunk.js.map": "/static/js/2.1d5588c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ff6f7e5b.chunk.css.map": "/static/css/2.ff6f7e5b.chunk.css.map",
+    "static/css/main.3b3e8c02.chunk.css.map": "/static/css/main.3b3e8c02.chunk.css.map",
+    "static/js/2.1d5588c4.chunk.js.LICENSE.txt": "/static/js/2.1d5588c4.chunk.js.LICENSE.txt",
+    "static/media/8.1250x0.f3404900.jpg": "/static/media/8.1250x0.f3404900.jpg",
+    "static/media/CKI.27b98b77.gif": "/static/media/CKI.27b98b77.gif",
+    "static/media/IMG-20210604-WA0002.88c546a0.jpg": "/static/media/IMG-20210604-WA0002.88c546a0.jpg",
+    "static/media/Share21521dScreenshot.d901d12d.png": "/static/media/Share21521dScreenshot.d901d12d.png",
+    "static/media/Share5154dScreenshot.83e07c1b.png": "/static/media/Share5154dScreenshot.83e07c1b.png",
+    "static/media/SharedS2creenshot.41a457b8.png": "/static/media/SharedS2creenshot.41a457b8.png",
+    "static/media/SharedScreenshot.c29d6a2d.png": "/static/media/SharedScreenshot.c29d6a2d.png",
+    "static/media/diskcategory.3ce594ce.gif": "/static/media/diskcategory.3ce594ce.gif",
+    "static/media/gruz1.7fa83a7e.gif": "/static/media/gruz1.7fa83a7e.gif",
+    "static/media/promo_5ee23545a2d4a343477412.d3a03dda.gif": "/static/media/promo_5ee23545a2d4a343477412.d3a03dda.gif",
+    "static/media/promo_5ee235c313b7f014180405.22e67c78.gif": "/static/media/promo_5ee235c313b7f014180405.22e67c78.gif",
+    "static/media/promo_5ee236484e1fb675437760.e4bb24ed.gif": "/static/media/promo_5ee236484e1fb675437760.e4bb24ed.gif",
+    "static/media/shinaleto3.2cf27bd4.gif": "/static/media/shinaleto3.2cf27bd4.gif",
+    "static/media/shinazima.1d5e109f.gif": "/static/media/shinazima.1d5e109f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/css/2.ff6f7e5b.chunk.css",
+    "static/js/2.1d5588c4.chunk.js",
+    "static/css/main.3b3e8c02.chunk.css",
+    "static/js/main.2bde1034.chunk.js"
+  ]
+}

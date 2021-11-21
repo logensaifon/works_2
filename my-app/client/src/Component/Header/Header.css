@@ -1,0 +1,243 @@
+.header {
+    width: 100%;
+}
+
+ .divLogo {
+    max-width: 176px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+.divLogo img {
+    width: 100%;
+}
+
+
+.phoneHeader {
+    width: auto;
+    float: left;
+    color: #e20606;
+    font-size: 20px;
+    font-weight: 500;
+}
+.phoneHeader:hover {
+    color: #e20606;
+}
+
+.bot {
+    width: 6px;
+    height: 6px;
+    background-color: #e20606;
+    float: left;
+    border-radius: 100px;
+    margin-top: 17px;
+    margin-left: 8px;
+}
+
+.topDiv {
+    width: 100%;
+    height: 31px;
+}
+
+.topDiv p {
+    width: auto;
+    float: left;
+    margin-top: 12px;
+    font-size: 12px;
+    margin-left: 8px;
+    margin-bottom: 0;
+}
+
+
+.bottomDiv {
+    width: 330px;
+    height: 31px;
+}
+
+
+.bottomDiv i {
+    margin-top: -1px;
+    float: left;
+    color: #e20606;
+}
+
+.bottomDiv a {
+    float: left;
+    text-decoration: underline;
+    color: #222222;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.bottomDiv a:hover {
+    color: #e20606;
+}
+
+
+.BottomPart img {
+    color: #e20606;
+}
+
+.BottomPart button {
+    all: unset;
+    cursor: pointer;
+    display: none;
+}
+
+
+
+.delivery {
+    width: 115px;
+    height: 60px;
+}
+
+.delivery div {
+    width: 55px;
+    height: 55px;
+    border: solid 1px #e20606;
+    border-radius: 50px;
+}
+
+.delivery img {
+    width: 45px;
+    height: 40px;
+    border-radius: 25px;
+    margin: 5px 2px;
+}
+
+.delivery p {
+    width: 50px;
+    height: 40px;
+    float: right;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.623);
+    margin-top: -50px;
+    line-height: 14px;
+}
+
+
+.creditCards {
+    width: 115px;
+    height: 60px;
+}
+
+.creditCards div {
+    width: 55px;
+    height: 55px;
+    border: solid 1px #e20606;
+    border-radius: 50px;
+}
+
+.creditCards img {
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px;
+}
+
+.creditCards p {
+    width: 50px;
+    height: 40px;
+    float: right;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.623);
+    margin-top: -52px;
+    line-height: 14px;
+}
+
+
+.like {
+    width: 115px;
+    height: 60px;
+}
+
+.like div {
+    width: 55px;
+    height: 55px;
+    border: solid 1px #e20606;
+    border-radius: 50px;
+}
+
+.like img {
+    width: 30px;
+    height: 30px;
+    margin: 9px 11px;
+}
+
+.like p {
+    width: 50px;
+    height: 40px;
+    float: right;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.623);
+    margin-top: -52px;
+    line-height: 14px;
+}
+
+@media screen and (max-width: 320px) {
+    body {
+        width: 320px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .BottomPart button {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .iconHeader {
+        display: none;
+    }
+
+    .contactHeader {
+        max-width: 167px;
+        width: auto;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .topDiv {
+        width: 100%;
+        height: 54px;
+    }
+    .topDiv p{
+        width: auto;
+        margin-left: 30px;
+        padding: 0;
+        margin-top: -2px;
+        float: left;
+    }
+    .topDiv a{
+        width: auto;
+        float: left;
+    }
+    .topDiv span{
+        float: left;
+    }
+
+
+    .bottomDiv {
+        max-width: 209px;
+        width: auto;
+        height: 30px;
+        margin-left: auto;
+        margin-right: auto; 
+        position: relative;
+    }
+
+    .bottomDiv i {
+        float: left;
+        margin-top: -1px;
+    }
+
+    .bottomDiv a {
+        float: left;
+        position: absolute;
+        margin-top: auto;
+    }
+
+
+}

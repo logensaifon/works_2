@@ -1,0 +1,83 @@
+.category {
+    width: 100%;
+    height: 100%; 
+    min-height: 160px;
+    border: solid 1px rgba(0, 0, 0, 0.096);
+    position: relative;
+}
+.category:hover {
+    border: solid 1px rgba(0, 0, 0, 0.26);
+}
+
+
+.imgCategory {
+    max-width: 100px;
+    width: 30%; 
+    height: 100%;
+    padding-top: 15px;
+    position: absolute;
+}
+
+.imgCategory img {
+    max-width: 100px;
+    width: 90%; 
+    max-height: 100px;
+    height: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.divTireDiameter {
+    max-width: 280px;
+    width: 70%;
+    height: 100%;
+    padding-left: 15px;
+    margin-left: 30%;
+    overflow: hidden;
+    padding-top: 15px;
+}
+
+.divTireDiameter h6 {
+    color: #e20606;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+.dimensions {
+    padding-top: 10px;
+    height: 18px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+
+.dimensions span {
+    width: 5px;
+    height: 5px;
+    background-color: #e20606;
+    float: left;
+    border-radius: 100%;
+}
+
+.dimensions a {
+    color: #222222b9;
+}
+
+.dimensions li {
+    float: right;
+    margin-top: -10px;
+    padding-left: 10px;
+    list-style: none;
+    padding-right: 15px;
+    color: #222222b9;
+}
+
+.dimensions ul {
+    height: 400px;
+
+}

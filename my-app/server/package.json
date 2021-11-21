@@ -1,0 +1,36 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app.js",
+    "start-server": "cross-env NODE_ENV=production SERVER=true node app.js",
+    "start-https": "cross-env NODE_ENV=production PORT=true node app.js",
+    "server": "nodemon app.js",
+    "client": "npm run start --prefix client",
+    "client:install": "npm install --prefix client",
+    "client:build": "npm build --prefix client",
+    "dev": "cross-env NODE_ENV=developmend concurrently \"npm run server\" \"cd ../client && npm start\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chokidar": "^3.5.2",
+    "colors": "^1.4.0",
+    "concurrently": "^6.0.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "mkdirp": "^0.5.5",
+    "rimraf": "^3.0.2"
+  }
+}

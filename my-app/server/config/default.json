@@ -1,0 +1,6 @@
+{
+    "mongoConectUrl": "mongodb+srv://urlConnect",
+    "port": 5000,
+    "port-https": 443,
+    "tokenKey": "key"
+}
